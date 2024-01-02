@@ -1,8 +1,14 @@
 # SenseiBot
 SenseiBot is conversational AI which is designed to hold natural and engaging conversations with students. They can understand the context of a conversation, respond with relevant information, and code.
-![Uploading 1.PNG…]()
-![2](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/33ac7b94-652e-4fbf-aff1-93acfdb51f00)
-![3](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/44b40f2c-a018-4187-bb9c-33daa6635e8f)
-![4](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/5db35c63-e3f1-4387-97c6-aa757dcc2374)
-![5](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/fdb6dba7-67d2-4eeb-84cf-7ea58a841d61)
-![6](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/44026fa5-c56f-40ce-b143-c93183dd0c3f)
+![1](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/5b5a8398-fb3b-4630-b7e9-3d32bcff7de1)
+![2](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/5d628e3c-2ab8-488b-a70f-f3b24fd427b1)
+![3](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/f9660e80-ebd7-4594-ba0f-a41a7b2b810b)
+![4](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/c3e45ee3-66a8-46e1-82f3-dee020cd9100)
+![5](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/6e4ab29f-20a4-4adf-a9c1-dde84f7a0907)
+![6](https://github.com/ManiniLethebe/SenseiBot/assets/101092285/c229bda5-05ad-4f60-9e97-4cac736dc7da)
+
+
+
+
+
+
